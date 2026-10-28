@@ -1,0 +1,19 @@
+[project]
+name = "offline-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "asyncio>=4.0.0",
+    "ddgs>=9.16.1",
+    "mcp>=2.3.0",
+    "numpy>=2.4.6",
+    "openai>=3.37.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "scikit-learn>=1.9.1",
+    "scrapling[ai,all]>=0.5",
+    "sentence-transformers>=6.2.0",
+    "transformers>=5.20.2",
+]

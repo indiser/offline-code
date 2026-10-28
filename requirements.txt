@@ -1,0 +1,11 @@
+mcp
+openai
+pydantic
+python-dotenv
+asyncio
+ddgs
+scrapling[all]
+numpy
+sentence_transformers
+scikit-learn
+python-dotenv
